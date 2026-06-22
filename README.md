@@ -2,7 +2,7 @@
 Software Engineer · Microservices Architect · .NET & Python Developer
 
 [![Email](https://img.shields.io/badge/Email-sabetghadamsina03%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:sabetghadamsina03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-sabetghadam-353ab621b)  
 [![Open to work](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=flat)]()
 
 ---
@@ -66,7 +66,7 @@ Software Engineer · Microservices Architect · .NET & Python Developer
 
 📫 Contact
 - Email: sabetghadamsina03@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- LinkedIn: https://www.linkedin.com/in/sina-sabetghadam-353ab621b
 - GitHub: https://github.com/SinaSabet
 
 ---
