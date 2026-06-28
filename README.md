@@ -19,9 +19,9 @@ Software Engineer · Microservices Architect · .NET & Python Developer
 - Caching & Storage: `Redis`, `SQL Server`, `ElasticSearch`  
 - API Gateway & Discovery: `Ocelot`, `Consul`  
 - Observability: `Serilog`, `Kibana`  
-- DevOps: `Docker`, `Docker Compose`, `Kubernetes`  
+- DevOps: `Docker`, `Docker Compose` 
 - Frontend: `Angular`  
-- ML: `Jupyter`, `scikit-learn`, small image-classifier experiments
+- ML: `Jupyter`, `scikit-learn`,`Fastai`, small image-classifier experiments
 
 (Quick visual tech badges)
 [![.NET](https://img.shields.io/badge/.NET-6%2F8-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
